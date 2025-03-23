@@ -1,0 +1,30 @@
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #576412;
+    color: white;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .navbar h1 {
+    font-size: 25px;
+    margin: 0;
+  }
+  
+  .cart-info a {
+    font-size: 18px;
+    text-decoration: none;
+    border: none;
+    padding: 5px;
+    border-radius:5px ;
+    background-color: white;
+    color: #576412;  
+  }
+  
+  .cart-info a:hover {
+    background-color: #e2dddd;
+  }
+  
+  
